@@ -1,3 +1,6 @@
 #Ce qu'il faut faire
-*Ajouter des fichiers
-*Modifier des fichiers 
+
+*Ajouter et modifer des fichiers 
+*ajouter d'autres personnes au projet?
+*Voir l'historique 
+*Ne pas avoir peur de merge
